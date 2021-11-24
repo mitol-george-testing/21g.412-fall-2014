@@ -1,0 +1,35 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Comparative Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ],
+    [
+      "Humanities",
+      "Language",
+      "German"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3a701bae-2b01-7ab7-74db-e558d2b75f83"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Advanced German Literature & Culture: Madness, Murder, Mysteries",
+  "course_description": "This course provides the opportunity to discuss, orally and in writing, cultural, ethical, and social issues on a stylistically sophisticated level. It explores representative and influential works from the nineteenth\u00a0century to the present, through literary texts (prose, drama, poetry), radio plays, art, film, and architecture, as well as investigates topics such as the human and the machine, science and ethics, representation of memory, and issues of good and evil. Taught in German.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.412",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
